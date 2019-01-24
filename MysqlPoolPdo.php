@@ -1,9 +1,9 @@
 <?php
 /**
  * 数据库连接池PDO方式
- * @author tanjiajun
- * Date: 2018/9/8
- * Time: 11:30
+ * @author xutao
+ * Date: 2019/1/24
+ * time: 17:35
  */
 require "AbstractPool.php";
 class MysqlPoolPdo extends AbstractPool
