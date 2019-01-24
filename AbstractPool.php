@@ -2,8 +2,8 @@
 /**
  * 连接池封装.
  * @author xutao
- * Date: 2019/1/24
- * Time: 13:36
+ * date: 2019/1/24
+ * time: 17:36
  */
 
 use Swoole\Coroutine\Channel;
