@@ -1,8 +1,8 @@
 <?php
 /**
  * 数据库连接池协程方式
- * @author tanjiajun 
- * Date: 2018/9/8
+ * @author xutao
+ * Date: 2019/1/24
  * Time: 11:30
  */
 require "AbstractPool.php";
