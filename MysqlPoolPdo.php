@@ -1,6 +1,6 @@
 <?php
 /**
- * 数据库连接池PDO方式
+ * 数据库连接池(PDO方式)
  * @author xutao
  * Date: 2019/1/24
  * time: 17:35
