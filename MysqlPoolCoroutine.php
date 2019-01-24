@@ -2,8 +2,8 @@
 /**
  * 数据库连接池协程方式
  * @author xutao
- * Date: 2019/1/24
- * Time: 11:30
+ * date: 2019/1/24
+ * time: 17:35
  */
 require "AbstractPool.php";
 
