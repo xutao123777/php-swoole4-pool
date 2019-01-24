@@ -1,8 +1,8 @@
 <?php
 /**
  * 连接池封装.
- * @author tanjiajun
- * Date: 2018/9/1
+ * @author xutao
+ * Date: 2019/1/24
  * Time: 13:36
  */
 
