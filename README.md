@@ -22,6 +22,7 @@ bool.sql 为测试数据库
 
 CREATE DATABASE IF NOT EXISTS book DEFAULT CHARSET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
+开放端口号:
 > # firewall-cmd --permanent --zone=public --add-port=9501/tcp
 success
 > # firewall-cmd --reload
