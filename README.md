@@ -23,9 +23,9 @@ bool.sql 为测试数据库
 CREATE DATABASE IF NOT EXISTS book DEFAULT CHARSET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 开放端口号:
-> # firewall-cmd --permanent --zone=public --add-port=9501/tcp
+firewall-cmd --permanent --zone=public --add-port=9501/tcp
 success
-> # firewall-cmd --reload
+firewall-cmd --reload
 
-> # curl http://IP地址 :9501/
+curl http://IP地址 :9501/
 [{"id":"1","name":"PHP","addtime":"13242323","click_count":"23"}]
